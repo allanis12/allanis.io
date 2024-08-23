@@ -1,6 +1,8 @@
 # allanis.io
-HOME.html
-ABOUT.html
-NEW ARRIVALS.html
-CATEGORY.html
-CONTACT.html
+<html>
+<head><title></title>
+</head>
+<body>
+<a href="HOME.html">The link is here</a>
+</body>
+</html>
